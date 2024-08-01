@@ -8,7 +8,10 @@ In recent years, I've been learning new technologies and languages. These are th
 [![My Skills](https://skillicons.dev/icons?i=java,redis,mysql,react,js,ts,solidity)](https://skillicons.dev)
 
 
-In my spare time, I also enjoy code some interesting demos, riding motorcycles, skateboarding, and traveling.
+In my spare time, I also enjoy code some interesting demos, riding motorcycles, skateboarding, and traveling.  
+My blog: [https://zqskate.com](https://zqskate.com)
+<br/>
+
 
 
 Stay passionate and become stronger. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps%20Light%20Skin%20Tone.png" alt="Flexed Biceps Light Skin Tone" width="25" height="25" />
