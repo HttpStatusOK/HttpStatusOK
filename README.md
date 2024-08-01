@@ -1,5 +1,18 @@
-## Welcome <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
-Hi, this is Edison Chan. 
+## Hey There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
+Hi, I'm Edison. I am a programmer with a keen interest in backend, frontend, and blockchain technologies.
+
+
+In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,redis,mysql,react,js,ts,solidity)](https://skillicons.dev)
+
+
+In my spare time, I also enjoy code some interesting demos, riding motorcycles, skateboarding, and traveling.
+
+
+Stay passionate and become stronger. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps%20Light%20Skin%20Tone.png" alt="Flexed Biceps Light Skin Tone" width="25" height="25" />
+
 <!--
 **HttpStatusOK/HttpStatusOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
