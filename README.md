@@ -3,8 +3,8 @@ Hi, I'm Edison. I am a programmer with a keen interest in backend, frontend, and
 
 
 In recent years, I've been learning new technologies and languages.  
-These are the ones I've learned so far:  
-[![My Skills](https://skillicons.dev/icons?i=java,redis,mysql,react,js,ts,solidity)](https://skillicons.dev)
+These are the ones I've learned so far: `Java` `ReactJS` `JavaScript` `TypeScript` `Solidity` ...
+
 
 
 In my spare time, I also enjoy code some interesting demos, riding motorcycles, skateboarding, and traveling.  
