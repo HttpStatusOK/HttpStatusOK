@@ -2,9 +2,7 @@
 Hi, I'm Edison. I am a programmer with a keen interest in backend, frontend, and blockchain technologies.
 
 
-In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.
-
-
+In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.  
 [![My Skills](https://skillicons.dev/icons?i=java,redis,mysql,react,js,ts,solidity)](https://skillicons.dev)
 
 
