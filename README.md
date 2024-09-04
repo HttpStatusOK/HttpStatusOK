@@ -11,7 +11,7 @@ I'm Edison Chan, a backend development engineer.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Alien" width="25" height="25" /> Tech Stack and Tools
 
-| End | Stack |
+|  | Stack |
 |---|---|
 | Backend | ![Spring](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) |
 | Frontend | ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/ReactNative-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white) |
