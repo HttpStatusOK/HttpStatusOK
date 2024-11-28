@@ -1,15 +1,18 @@
-### Hey There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hey There! 
 I'm Edison Chan, a backend development engineer.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Alien" width="25" height="25" /> Languages
+- Like writing interesting projects in spare time, just like **[Fluent Emoji Mart](https://fluent-emoji-mart.zqskate.com/)** and **[Translation Assistant](https://translation-assistant.zqskate.com/?apiKey=&apiDomain=)**
+- Currently exploring in the blockchain field
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Alien" width="25" height="25" /> Languages
 ![Static Badge](https://img.shields.io/badge/-Java-c74634?logo=openjdk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Solidity-2a247c?logo=solidity&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-TypeScript-2e75c1?logo=typescript&logoColor=white)
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Alien" width="25" height="25" /> Tech Stack and Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Alien" width="25" height="25" /> Tech Stack and Tools
 
 |  | Stack |
 |---|---|
