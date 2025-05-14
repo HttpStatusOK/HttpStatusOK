@@ -1,8 +1,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hey There! 
 I'm Edison Chan, a backend development engineer.
 
-- Like writing interesting projects in spare time, just like **[Fluent Emoji Mart](https://fluent-emoji-mart.zqskate.com/)** and **[Translation Assistant](https://translation-assistant.zqskate.com/?apiKey=&apiDomain=)**
+- Like writing interesting projects in spare time
 - Currently exploring in the blockchain field
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Alien" width="25" height="25" /> Projects
+- **[Fluent Emoji Mart](https://github.com/HttpStatusOK/fluent-emoji-mart)** - [Live demo](https://fluent-emoji-mart.zqskate.com/)
+- **[Translation Assistant](https://github.com/HttpStatusOK/translation-assistant)** - [Live demo](https://translation-assistant.zqskate.com/?apiKey=&apiDomain=)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Alien" width="25" height="25" /> Languages
